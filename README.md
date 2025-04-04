@@ -29,7 +29,7 @@ This project can be useful for:
 - Educational demonstrations of image-to-image translation
 
   ## Output :
-  ![Output](Screenshot%from%2025-04-04%17-29-08.png)
+  ![Output](output)
 
 ## Credits
 
