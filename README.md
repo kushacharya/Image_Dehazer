@@ -28,6 +28,9 @@ This project can be useful for:
 - Exploring deep learning methods for image enhancement
 - Educational demonstrations of image-to-image translation
 
+  ## Output :
+  ![Output](Screenshot from 2025-04-04 17-29-08.png)
+
 ## Credits
 
 Developed as part of an academic project. Inspired by the U-Net architecture introduced in "U-Net: Convolutional Networks for Biomedical Image Segmentation" (Ronneberger et al., 2015).
